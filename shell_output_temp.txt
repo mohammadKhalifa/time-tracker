@@ -1,0 +1,1 @@
+WM_NAME(STRING) = "Spyder (Python 2.7)"
