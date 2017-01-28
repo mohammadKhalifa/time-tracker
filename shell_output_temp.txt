@@ -1,1 +1,1 @@
-WM_NAME(STRING) = "muhammad@muhammad-VirtualBox: ~/Desktop/time-tracker"
+WM_NAME(STRING) = "(precise)skybolt@localhost: ~/Desktop/time-tracker"
